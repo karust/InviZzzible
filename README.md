@@ -1,5 +1,4 @@
 # InviZzzible
-
 Contributed By Check Point Software Technologies LTD.<br />
 Programmed by Stanislav Skuratovich.<br />
 Presented at:
@@ -13,6 +12,11 @@ Video: https://archive.org/details/ShmooCon2017/ShmooCon2017+-+Defeating+Sandbox
 <p align="center">
   <img src="https://github.com/CheckPointSW/InviZzzible/blob/master/logo.png" width="150"/>
 </p>
+
+## Usage
+* Download [SanboxEvasion](https://github.com/karust/InviZzzible/releases/download/1/SandboxEvasion.exe) executable
+* Launch it and see console output or `.html` report dropped nearby
+* By default, it will also drop files like `CUCKOO_CuckoomonConfiguration_notdetected` for restricted environments and create similar DNS records
 
 Overview
 ========
